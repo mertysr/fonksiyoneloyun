@@ -1,0 +1,32 @@
+Welcome to DrRacket, version 7.2 [3m].
+Language: Advanced Student; memory limit: 128 MB.
+(make-world
+ (list
+  (make-sprite
+   (make-posn #i97.20747236835037 #i93.28191969545995)
+   (make-posn #i0.6656597789468018 #i0.7462553575636792)
+   10
+   'white)
+  (make-sprite
+   (make-posn #i234.64104508861004 #i272.87492279348254)
+   (make-posn #i-1.008600980451856 #i1.727056473376466)
+   10
+   'white)
+  (make-sprite
+   (make-posn #i332.72671530848294 #i435.8265349096037)
+   (make-posn #i0.46306569334145437 #i1.9456541737035897)
+   10
+   'white)
+  (make-sprite
+   (make-posn #i109.98115854675366 #i372.8089370610142)
+   (make-posn #i-1.1200837397922043 #i1.6569286091600655)
+   10
+   'white)
+  (make-sprite
+   (make-posn #i418.29525908606047 #i215.62019399345485)
+   (make-posn #i-0.29957849961922633 #i0.9540716548383004)
+   10
+   'white))
+ '()
+ 100)
+> 
